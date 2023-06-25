@@ -32,5 +32,19 @@ If you encounter any problems or have any questions about this project, feel fre
 
 Enjoy using the Parking Management System and managing your parking lot with ease!
 
-<img width="1265" alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Home%20Filled.png">
+## Preview
+
+<img  alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Home%20Filled.png">
+
+<img  alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Home.png">
+
+<img  alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Lock%20Screen.png">
+
+<img  alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Menu%20Logout.png">
+
+<img alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Park.png">
+
+<img  alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Print%20details.png">
+
+<img  alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Vacate.png">
 
