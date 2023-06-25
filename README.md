@@ -24,13 +24,13 @@ To get started with this project, clone the repository and compile the C++ file 
 
 ## Contributing
 
-Contributions are welcome! If you have a feature request, bug report, or proposal for improving the system, please feel free to open an issue or submit a pull request.
+Welcoming contributions to this Project! If you'd like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
 
 ## Support
 
-If you encounter any problems or have any questions about this project, please open an issue on this GitHub repository.
+If you encounter any problems or have any questions about this project, feel free to reach out!
 
 Enjoy using the Parking Management System and managing your parking lot with ease!
 
-![Parking Management System - Preview](link-to-your-image-if-any)
+<img width="1265" alt="AirHub - Preview" src="https://github.com/sherySJ/oop-cpp-parking-system/blob/main/Screenshots/Home%20Filled.png">
 
