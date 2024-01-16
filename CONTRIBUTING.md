@@ -1,6 +1,6 @@
 # Contributing to Parking System
 
-Thank you for considering contributing to this project! We appreciate your interest in improving our project. By contributing, you can help make AirHub even better for users worldwide. 
+Thank you for considering contributing to this project! We appreciate your interest in improving our project. By contributing, you can help make the project even better with your own implementation! 
 
 To ensure a smooth and collaborative contribution process, please review the guidelines below before getting started.
 
